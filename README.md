@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
 🔭 At the moment, I'm working on machine learning projects related to recommendation systems<br>🌱 I’m really keen on machine learning and how it influence our life<br>💬 All kinds of data science questions are welcome<br>
 
 
