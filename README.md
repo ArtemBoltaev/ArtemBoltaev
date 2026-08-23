@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 At the moment, I'm working on machine learning projects related to recommendation systems<br>🌱 I’m really keen on machine learning and how it influence our life<br>💬 All kinds of data science questions are welcome<br>
+🔭 I work on the part of ad tech most people never see: the bidding algorithm that decides what an impression is worth - millions of times per second.<br>🌱 I’m really keen on machine learning and how it influence our life<br>💬 All kinds of data science questions are welcome<br>
 
 
 ## 🌐 Socials:
